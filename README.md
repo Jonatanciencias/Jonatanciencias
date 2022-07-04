@@ -18,7 +18,6 @@
 	</div>
 	
 	<div align="center">
-		<br>
 		<img height="100" alt="gif" src="https://github.com/Jonatanciencias/Jonatanciencias/blob/0ca463b58204cd6cf31eb1ffd70df27b8ee58645/Farmer.gif"/>
 	</div>
 	
