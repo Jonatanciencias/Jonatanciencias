@@ -1,4 +1,4 @@
-<div display="flex" justify-content="space-between | space-around">
+<div display="flex" justify-content="space-between">
   <h1 float="left">Hello there!! Im Jonatan, "G4N1D"</h1>
   <img height="100" float="right" alt="gif" src="https://github.com/Jonatanciencias/Jonatanciencias/blob/0ca463b58204cd6cf31eb1ffd70df27b8ee58645/Farmer.gif"/>
  </div>
