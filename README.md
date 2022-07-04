@@ -1,5 +1,5 @@
 <div align="rigth">
-  <h1>Hello there!! Im Jonatan  - *G4N1D*<</h1>
+  <h1>Hello there!! Im Jonatan  - *G4N1D*</h1>
  </div>
 
  <div align="left">
