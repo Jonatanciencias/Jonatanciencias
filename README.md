@@ -1,18 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8" />
-<meta name="generator" content="Geany 1.38" />
-</head>
+# Hi there 
 
-<body>
-	<h1 align="center">-- Hello there!! --</h1>
-	<br>
-	<div align="center">
-		<img max-width="800" src="https://github.com/Jonatanciencias/Jonatanciencias/blob/360ef49dbbef24822393d34bf804e0a0e47d7fed/GitHub%20Banner.png"/>
-	</div>
-	<img height="100" alt="gif" align="right" src="https://github.com/Jonatanciencias/Jonatanciencias/blob/0ca463b58204cd6cf31eb1ffd70df27b8ee58645/Farmer.gif"/>
+In *Jonatan.*
 
-</body>
+I'm a Biologist and Natural science teacher, currently studiying Software engineering at Unidervidad de Antioquia.
 
-</html>
+I love learning a teaching, some of my tecnologies are:
+
+- Visual Basic
+- HTML/CSS/Vanilla JS
+- Python
+- IoT/Arduino 
+- Learnig Elixir
