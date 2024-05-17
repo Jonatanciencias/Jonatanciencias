@@ -10,7 +10,7 @@ I love learning, teaching and writing, some of my papers are:
 - [Araneofauna De La Reserva Forestal](https://www.researchgate.net/publication/325496884_Araneofauna_De_La_Reserva_Forestal_Protectora_Serrania_De_Coraza_Sucre-Colombia)
 - [Experiencias pedagógicas y formación docente](https://www.researchgate.net/publication/380661401_Saberes_contextos_y_experiencias_significativas_de_la_educacion_en_el_municipio_de_Rionegro)
 
-, some of my tecnologies are:
+Some of my tecnologies are:
 
 - HTML/CSS/Vanilla JS
 - Python
